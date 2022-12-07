@@ -1,0 +1,18 @@
+A. What is reverse-i-search in a Linux terminal?
+    - To find the past commands. This can be activated after pressing Ctrl+r.
+
+B. How do you list out the hidden directories using Linux command line tool?
+    - Using 'ls -a' command in the respective directory.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+    - I didn't get a chance to experience them, but I can learn. I have used Windows and Mac OS.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+    - I didn't use specific server but I have hosted my React Js projects in the third-party services like vercel.com, Github pages and my Node Js project on render.com and Heroku. Below are my projects that I have hosted:
+
+1. Todos App(React Js): https://todos-reactjs-by-skavitha.vercel.app/
+1.1. Todos App(Node Js): https://todos-nodejs-by-skavitha.onrender.com/ (It will take 30 seconds to load initially.)
+
+2. Covid dashboard(React Js):https://skavithacoviddb.ccbp.tech/
+
+I have mentioned all my other project details in my resume. 
